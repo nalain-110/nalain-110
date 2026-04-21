@@ -1,6 +1,6 @@
 # 💫 About Me:
-Machine Learning, Generative AI, MySQL . open to exciting collaborations on AI and data related projects. pursuing my bachelor degree in BS Artificial Intelligence at Superior University (2024-2028). Open to internships and jobs in Artificial Intelligence. Either remote or part time  
-
+I am Syed Nalain Abbas, a Bachelor of Science in Artificial Intelligence student at Superior University (2024–2028), building a strong foundation in machine learning, generative AI, and data engineering. What drives me is not just the theory — it is the practical application of AI to solve real problems.
+If you are working on something interesting in the AI or data space, let's connect.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prof.syed512)
@@ -17,6 +17,4 @@ Machine Learning, Generative AI, MySQL . open to exciting collaborations on AI a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=nalain-110&icon=0&color=0)](https://visitcount.itsvg.in)
 
