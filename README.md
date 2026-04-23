@@ -3,7 +3,6 @@ I am Syed Nalain Abbas, a Bachelor of Science in Artificial Intelligence student
 If you are working on something interesting in the AI or data space, let's connect.
 
 ##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prof.syed512)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SYEDNALAINABBAS)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prof.syed313@gmail.com) 
 
